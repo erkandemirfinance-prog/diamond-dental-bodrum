@@ -276,7 +276,7 @@ export default function Home() {
           <p className="font-medium tracking-[0.18em] text-white">DIAMOND DENTAL BODRUM</p>
           <p>{t.footer}</p>
           <p>{t.disclaimer}</p>
-          <p>© {new Date().getFullYear()} Diamond Dental Bodrum</p>
+          <p>© 2026 Diamond Dental Bodrum</p>
         </div>
       </footer>
     </main>
